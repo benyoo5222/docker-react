@@ -19,4 +19,4 @@ deploy:
   on:
     branch: main
   access_key_id: "$ACCESS_KEY"
-  secrete_access_key: "$SECRET_KEY"
+  secret_access_key: "$SECRET_KEY"
